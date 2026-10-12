@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ylianbk@gmail.com
+	name = Ylian BERTRAND
